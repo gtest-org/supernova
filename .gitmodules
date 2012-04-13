@@ -1,6 +1,3 @@
 [submodule "nova-module1"]
 	path = nova-module1
 	url = https://github.com/gtest-org/nova-module1.git
-[submodule "nova-module2"]
-	path = nova-module2
-	url = https://github.com/gtest-org/nova-module2.git
