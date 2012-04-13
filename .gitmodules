@@ -1,0 +1,8 @@
+[submodule "nova-module1"]
+	path = nova-module1
+	url = https://review-dev.openstack.org/gtest-org/nova-module1.git
+	branch = .
+[submodule "nova-module2"]
+	path = nova-module2
+	url = https://review-dev.openstack.org/gtest-org/nova-module2.git
+	branch = .
